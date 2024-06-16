@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="cascara.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header class="Mainheader">
+        <div class="header">
+            <img class="Logo" src="https://static.wixstatic.com/media/c3e669_f795cdb1526b465898bc15ad0b39738f~mv2.png/v1/crop/x_105,y_125,w_288,h_256/fill/w_111,h_96,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png" height=100px width=130px>
+            <br>
+            <br>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <div class="Cabeza">
+                <h1 class="Titulo">paradise travel Agency</h1>
+            </div>
+            <div class="Cuerpo">
+                <p class="Descripcion1">- aca vas a encontrar nuestros packs de viajes</p>
+                <br>
+                <br>
+                <br>
+                <h2 class="TuNor">Pack de turismo al norte del país</h2>
+                <br>
+                <div class="Tur1">
+                    <img src="https://2.bp.blogspot.com/-9faCUJ61_FQ/UnrTofhXjBI/AAAAAAAADeQ/SL8fGPaS9Zw/s1600/IMG_0159.JPG" height="300px" width="400px">
+                    <p>pack de turismo a tucuman</p>
+                    <p>precio: $40000</p> <button type="boton1">Comprar</button>
+                </div>
+                <div class="Tur2">
+                    <img src="https://b761849.smushcdn.com/761849/wp-content/uploads//salta-argentina-2.jpg?lossy=2&strip=1&webp=1" height="300px" width="400px">
+                    <p>pack de turismo a Salta</p>
+                    <p>precio: $35000</p> <button type="boton1">Comprar</button>
+                </div>
+                <div class="Tur3">
+                    <img src="https://www.lugaresturisticosdeargentina.com/wp-content/gallery/cataratasdeliguazu/Cataratas-del-Iguazu5.jpeg" height="300px" width="400px">
+                    <p>pack de turismo a Misiones</p>
+                    <p>precio: $50000</p> <button type="boton1">Comprar</button>
+                </div>
+                <br>
+                <br>
+                <br>
+                <h2 class="TuSur">pack de turismo al sur del Pais</h2>
+                <br>
+                <div class="Tur4">
+                    <img src="https://ik.imagekit.io/shortpedia/Voices/wp-content/uploads/2020/10/Ushuaia.jpg" height="300px" width="400px">
+                    <p>pack de turismo a Ushuaia</p>
+                    <p>precio: $60000</p> <button type="boton1">Comprar</button>
+                </div>
+                <div class="Tur5">
+                    <img src="https://st.depositphotos.com/1679308/1855/i/950/depositphotos_18554275-stock-photo-landscape-of-the-falkland-islands.jpg" height="300px" width="400px">
+                    <p>pack de turismo a Las malvinas</p>
+                    <p>precio: $65000</p> <button type="boton1">Comprar</button>
+                </div>
+                <div class="Tur6">
+                    <img src="https://cdn1.intriper.com/wp-content/uploads/2020/08/13152627/Costanera-Comodoro-Rivadavia.jpg" height="300px" width="400px">
+                    <p>pack de turismo a comodoro Rivadavia</p>
+                    <p>precio: $30000</p> <button type="boton1">Comprar</button>
+                </div>
+                <br>
+                <br>
+                <br>
+                <h2 class="TuOes">pack de turismo al oeste del pais</h2>
+                <br>
+                <div class="Tur7">
+                    <img src="https://sentimendoza.com.ar/medios/Mendoza-1024x687.jpg" height="300px" width="400px">
+                    <p>pack de turismo a mendoza</p>
+                    <p>precio: $55000</p> <button type="boton1">Comprar</button>
+                </div>
+                <div class="Tur8">
+                    <img src="https://www.lugaresturisticosdeargentina.com/wp-content/gallery/san-martin-de-andes/San-Martin-de-los-Andes.jpg" height="300px" width="400px">
+                    <p>pack de turismo a neuquen</p>
+                    <p>precio: $45000</p> <button type="boton1">Comprar</button>
+                </div>
+                <div class="Tur9">
+                    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpc1o11S6k6nf1tROK1Nl8hGcQyggSj4A-RmLbwOSTgzs8cd401TLdFlVzChnfKQ-W7u1seKqNXmliaP_1IinIsBAsTOZCccIlX6b0uUU-GwhOmySHF04Th9naEwVJshBHJAf-g714MM2Z/s640/Quebrada+de+Las+Angosturas.+Stefan+Sauzuk.+Geografia+de+catamarca.+cerro+multicolor+%25282%2529.jpg" height="300px" width="400px">
+                    <p>pack de turismo a catamarca</p>
+                    <p>precio: $25000</p> <button type="boton1">Comprar</button>
+                </div>
+                <br>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

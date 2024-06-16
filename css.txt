@@ -1,0 +1,35 @@
+.body{
+    background-color: #ffffff;
+}
+.header{
+    background-color:cecece;
+    gap: 3em 0px;
+    border: 1em solid #cecece;
+    display: grid;
+    grid-template-areas:
+    ". Logo ."
+    "Categoria Categoria Categoria";
+    grid-template-columns: 33.33% 33.34% 33.33%;
+    grid-template-rows: 2cm 0.5cm;
+}
+.Logo{
+    grid-column: 2 / 3;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Contenidos1{
+    grid-row: 2 / 3;
+    grid-column: 1 / 2;
+    text-align: center;
+}
+.Contenidos2{
+    grid-row: 2 / 3;
+    grid-column: 2 / 3;
+    text-align: center;
+}
+.Contenidos3{
+    grid-row: 2 / 3;
+    grid-column: 3 / 4;
+    text-align: center;
+}

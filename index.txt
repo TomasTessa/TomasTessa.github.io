@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="cascara.css">
+    <meta charset="UTF=8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paradise Travel</title>
+</head>
+<body>
+    <header class="Mainheader">
+        <div class="header">
+            <img class="Logo" src="https://static.wixstatic.com/media/c3e669_f795cdb1526b465898bc15ad0b39738f~mv2.png/v1/crop/x_105,y_125,w_288,h_256/fill/w_111,h_96,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png" height=100px width=130px>
+            <br>
+            <br>
+            <a class="Contenidos1" href="index.html">Home</a>
+            <a class="Contenidos2" href="productos.html">Packs de viajes</a>
+            <a class="Contenidos3" href="index">Ayuda</a>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <div class="Cabeza">
+            <h1 class="Titulo">Paradise travel agency</h1>
+            </div>
+            <div class="Cuerpo">
+                <h2 class="Descripcion1">Somos una agencia de turismo que promete cumplir todas tus expectativas y nuestros viajes incluyen turismo alrededor del pais</h2>
+                <img class="Tur1" src="https://zenat.com.co/wp-content/uploads/2020/06/Top-10-mejores-agencias-de-viajes-y-turismo-de-Bogota-600x385.jpg" height="300px" width="500px"> <img class="Tur3" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*jb9w6HPgKw6rvKGiD_nupA.jpeg" height="300px" width="500px">
+                <h2 class="TurOes">Viajes por el pais que incluimos:</h2>
+                <ul class="Tur7" type="dot">
+                <li>el norte del pais: esta sección contiene misiones, tucuman y salta.
+                <li>el sur del pais: hacemos viajes en Ushuaia, comodoro rivadavia y las Islas Mavinas
+                <li>el oeste del pais: organizamos viajes a mendoza, neuquen y catamarca
+                </ul>
+            </div>
+            <div class="Footer">
+            </div>
+        </div>
+    </main>
+</body>
